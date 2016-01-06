@@ -6,7 +6,7 @@ The object data used in this project was converted out of real CAD files.
 To access the KinectSDK an existing plug-in was used.
 The implementation was also evaluated if the application was usable and whether the work meets the requirements of training of engineering apprentices.
 
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+_____________________________________________________________________________________________
 
 Teil des Masterthesisprojekts für Unity 5.2.2
 In dem Projekt wurde eine Interaktionsmethode mittels Oculus Rift und MS Kinect v2 entwickelt,
