@@ -8,7 +8,7 @@ Um auf das KinectSDK zuzugreifen wurde ein bereits existierendes PlugIn verwende
 In der Arbeit wurde die Interaktionsmethode nach ihrer Benutzbarkeit bewertet.
 Zudem wurde überprüft, ob die Arbeit den Anforderungen einer Ausbildung von Maschinenbaulehrlingen entspricht.
 
-#########
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 Part of the master's thesis project for Unity 5.2.2
 In this project I've developed a interaction method using Oculus Rift and MS Kinect v2 as input/output devices.
