@@ -4,7 +4,8 @@ In this project I've developed a interaction method using Oculus Rift and MS Kin
 With this it is possible to train assembly workers in virtual reality.
 The object data used in this project was converted out of real CAD files.
 To access the KinectSDK an existing plug-in was used.
-The implementation was also evaluated if the application was usable and whether the work meets the requirements of training of engineering apprentices.
+
+It was also evaluated if the application was usable and whether the work meets the requirements of training of engineering apprentices.
 
 _____________________________________________________________________________________________
 
