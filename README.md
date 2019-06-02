@@ -1,4 +1,5 @@
 # Kinect_OVR
+## (Just left this in here for nostalgic reasons.)
 Part of the master's thesis project for Unity 5.2.2
 In this project I've developed a interaction method using Oculus Rift and MS Kinect v2 as input/output devices.
 With this it is possible to train assembly workers in virtual reality.
